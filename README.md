@@ -211,3 +211,10 @@ python train_deep.py
 本项目受到了 "System 2" 理论（Kahneman）以及近期 Chain-of-Thought (CoT) 研究的启发。
 
 如果你觉得这个项目对你有帮助，请给个 ⭐️ Star！
+
+@article{niu2026cortex,
+  title={Cortex-LLM: Plug-and-Play Continuous Latent Reasoning for Large Language Models},
+  author={Alan},
+  journal={arXiv preprint arXiv:2603.xxxxx},
+  year={2026}
+}
