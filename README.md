@@ -2,7 +2,7 @@
 
 # 🧠 Cortex LLM: Plug-and-Play System 2 Reasoning Module
 
-**Cortex LLM** 是一个轻量级、可插拔的 **"System 2" 推理增强模块**。它不需要微调（Fine-tune）庞大的基座模型（Base Model），而是通过挂载一个可学习的“大脑皮层”（Cortex），在冻结的 LLM 之上通过生成“思维向量（Thought Vectors）”，从而引导模型进行更深层次的推理。
+[**Cortex LLM**](https://alanhome.github.io/cortex-llm/Cortex_LLM.pdf) 是一个轻量级、可插拔的 **"System 2" 推理增强模块**。它不需要微调（Fine-tune）庞大的基座模型（Base Model），而是通过挂载一个可学习的“大脑皮层”（Cortex），在冻结的 LLM 之上通过生成“思维向量（Thought Vectors）”，从而引导模型进行更深层次的推理。
 
 核心理念：**冻结直觉（System 1），训练思考（System 2）。**
 
